@@ -7,6 +7,6 @@ mkdir server_cache
 cd..
 cd _counter
 call git add .
-call git commit -am "made changes"
+call git commit -am "made updates"
 call git push
 pause
