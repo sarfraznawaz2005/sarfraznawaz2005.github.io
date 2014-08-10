@@ -1,2 +1,2 @@
-call chef bake
+chef bake
 pause
