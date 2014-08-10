@@ -1,0 +1,2 @@
+call chef bake
+pause
