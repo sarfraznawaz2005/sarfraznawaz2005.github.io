@@ -95,7 +95,7 @@ blockquote {
 }
 #menu a {
   display: block;
-  padding: 1em 2em;
+  padding: 5px 2em;
 }
 #menu a:link,
 #menu a:visited {
