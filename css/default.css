@@ -27,12 +27,11 @@ blockquote {
 }
 #container a {
   color: #26617F;
-  font-weight: bold;
   text-decoration: none;
   padding: 0.1em 0.2em;
 }
 #container a:visited {
-  color: #0f2530;
+  color: #26617F;
 }
 #container a:hover {
   color: #A2DFFF;
@@ -119,4 +118,16 @@ blockquote {
 }
 .post-more {
   margin-bottom: 1.5em;
+}
+.tag {
+  background-color: #E0EAF1;
+  color: #3E6D8E;
+  display: inline-block;
+  font-size: 1em;
+  line-height: 16px;
+  margin: 2px 2px 2px 0;
+  padding: 3px 5px;
+  text-decoration: none;
+  text-transform: lowercase;
+  white-space: nowrap;
 }
