@@ -1,4 +1,1 @@
-
-My Blog
-===================
-My personal blog.
+My Website
