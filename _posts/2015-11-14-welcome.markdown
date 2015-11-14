@@ -1,0 +1,8 @@
+---
+published: true
+title: Welcome!
+layout: post
+---
+Hello, I am Sarfraz Ahmed, a self-taught programmer mainly involved in PHP, MySQL, CSS/HTML, JavaScript/jQuery for around 5+ years now. I have also worked with ASP 3.0 and Java and Android platform. I like to code and develop in accordance with XHTML/CSS/Web standards, validated and cross-browser ready sites. I simply love PHP, JavaScript and CSS.
+
+I am also Pakistan's top user on StackOverflow by reputation holding Gold badge for the tags PHP, JavaScript, jQuery, HTML and CSS.
